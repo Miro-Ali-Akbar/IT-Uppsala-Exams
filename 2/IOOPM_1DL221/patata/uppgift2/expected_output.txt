@@ -1,0 +1,12 @@
+Quote(var("x"))::toString(): Quote(x)
+Unquote(var("x"))::toString(): Unquote(x)
+test1: Quote(3) = '3'
+test2: Quote(3 + x) = '3 + x'
+test3: Quote('Hej' - 4) = '\'Hej\' - 4'
+test4: Quote(Quote(x)) = 'Quote(x)'
+test5: Quote(Unquote(3 + x)) = '8'
+test6: Quote(3 + Unquote(x)) = '3 + 5'
+test7: Quote(Unquote(Quote(x))) = '\'x\''
+test8: Quote(Quote(Unquote(x))) = 'Quote(5)'
+test9: Quote(Unquote(Unquote(x))) = A/An java.lang.RuntimeException was thrown (Unquote appeared outside of quote)
+test10: Unquote(x) = A/An java.lang.RuntimeException was thrown (Unquote appeared outside of quote)

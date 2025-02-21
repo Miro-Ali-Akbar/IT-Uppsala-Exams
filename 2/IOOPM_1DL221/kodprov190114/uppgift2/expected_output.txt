@@ -1,0 +1,30 @@
+Test 1	Scope{ x => 1 } 
+Test 2	Scope{ Scope{ x => 2 } , x => 1 , y => 1 } 
+Test 3	2
+Test 4	1
+Test 5	Scope{ Scope{ x => 3 } , x => 1 , y => 3 } 
+Test 6	'then'
+Test 7	'else'
+Test 8	1
+Test 9	1
+Integration tests follow -- hard to use these to debug, sorry
+Test 10	'prints follow'
+'elseBody: 44'
+Scope{ Scope{ } , x => 44 , y => 0 } 
+Scope{ x => 44 , y => 0 } 
+Test 11	'prints follow'
+'thenBody: 2'
+Scope{ Scope{ x => 2 } , x => 43 , y => 1 } 
+Scope{ x => 43 , y => 1 } 
+Test 12	'top-level scope'
+Scope{ x => 1 , y => 1 } 
+'entering outer if'
+Scope{ Scope{ } , x => 1 , y => 1 } 
+'entering inner if'
+Scope{ Scope{ Scope{ } , x => 'shadowed from inner' } , x => 1 , y => 1 } 
+Scope{ Scope{ Scope{ x => 20 } , x => 'shadowed from inner' } , x => 1 , y => 1 } 
+'leaving inner if'
+Scope{ Scope{ x => 'shadowed from inner' } , x => 1 , y => 'assign from innermost scope' } 
+'entering outer if'
+Scope{ x => 1 , y => 'assign from innermost scope' } 
+Test 13	IfThenElse evaluates to <bottom>

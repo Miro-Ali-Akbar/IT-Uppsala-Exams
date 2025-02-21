@@ -1,0 +1,21 @@
+* Q1
+  Imagine that you are employed by a large company as project
+  manager. You are given the responsibility by the top management to
+  lead the development of a new digital system. This new system will
+  be used by hundreds of employees every day. 
+  Write a 1 page document directed to the management of your company
+  arguing as convincingly as possible for the need of a phase 0 using
+  contextual design when developing this system. You should argue
+  using scientifically grounded arguments. 
+** Answer
+   Statistics
+   Cognitive
+   Agile not alone
+
+* Q2
+  The ISO usability definition (in IOS 9241) mentions three
+  measurements of usability. How can each one of these be measured
+  in practice with a high degree of validity? 
+** Answer
+   
+   

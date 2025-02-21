@@ -1,0 +1,90 @@
+1DL002 Data, etik och rätt, 5 hp 
+1DL008 IT, hållbarhet och socialt ansvar, 5 hp 
+1DL034 Introduktion till maskininlärning, 5 hp 
+1DL073 Naturliga beräkningsmetoder för maskininlärning, 10 hp 
+1DL201 Programkonstruktion och datastrukturer, 20 hp 
+1DL221 Imperativ och objektorienterad programmeringsmetodik, 20 hp 
+1DL231 Algoritmer och datastrukturer II, 5 hp 
+1DL242 Avancerad mjukvarudesign, 5 hp 
+1DL251 Metoder och projektledning för mjukvaruutveckling, 5 hp 
+1DL301 Databasteknik I, 5 hp 
+1DL321 Kompilatorteknik I, 5 hp 
+1DL340 Artificiell intelligens, 5 hp 
+1DL360 Informationsutvinning I, 5 hp 
+1DL400 Databasteknik II, 5 hp 
+1DL451 Modellering för kombinatorisk optimering, 5 hp 
+1DL507 Projekt i dataanalys, 15 hp 
+1DL530 Introduktion till parallellprogrammering, 5 hp 
+1DL590 Parallella algoritmer och datastrukturer, 5 hp 
+1DL601 Underhållsprogrammering, 5 hp 
+1DL610 Mjukvarutestning, 5 hp 
+1DL620 Plattformsöverskridande system, 5 hp 
+1DL630 Komplexa IT-system i stora organisationer, 5 hp 
+1DL650 Projekt i mjukvaruutveckling, 15 hp 
+1DT003 Datorsystem med projektarbete, 20 hp 
+1DT004 Realtidssystem, 10 hp 
+1DT012 IT i samhället, 15 hp 
+1DT024 Avancerad datorarkitektur, 10 hp 
+1DT051 Introduktion till informationsteknologi, 10 hp 
+1DT059 Modellbaserad utveckling av inbyggd programvara, 10 hp 
+1DT061 Datavetenskapens didaktik, 10 hp 
+1DT072 Säkra datorsystem I, 5 hp 
+1DT074 Datakommunikation II, 10 hp 
+1DT075 Kryptologi, 5 hp 
+1DT081 Projektarbete i informationsteknologi, 5 hp 
+1DT088 Projektarbete i informationsteknologi, 10 hp 
+1DT092 Internationell mjukvaruutveckling, projekt, 10 hp 
+1DT093 Datorarkitektur, 10 hp 
+1DT104 Projekt i datorsystem, 15 hp 
+1DT106 Programmering av inbyggda system, 5 hp 
+1DT108 Programmering av inbyggda system, projekt, 5 hp 
+1DT114 Datasäkerhet och integritet, 5 hp 
+1DT116 Lågnivå-parallellprogrammering, 5 hp 
+1DT194 Trådlös kommunikation och nätverksbaserade inbyggda system, 5 hp
+1DT195 Trådlös kommunikation och inbyggda system, projekt, 5 hp 
+1DT350 Självständigt arbete i informationsteknologi, 15 hp 
+1DT960 Examensarbete i informationsteknologi, 30 hp 
+1FA326 Digital elektronikkonstruktion med VHDL, 10 hp 
+1MA004 Algebra I, 5 hp 
+1MA010 Baskurs i matematik, 5 hp 
+1MA013 Envariabelanalys, 10 hp 
+1MA017 Flervariabelanalys, allmän kurs, 5 hp 
+1MA024 Linjär algebra II, 5 hp 
+1MA025 Linjär algebra och geometri I, 5 hp 
+1MA170 Grafteori, 5 hp 
+1MD001 Avancerad interaktionsdesign, 5 hp 
+1MD003 Gränssnittsprogrammering II, 5 hp 
+1MD004 IT, etik och organisation, 5 hp 
+1MD030 Medicinsk informatik, 5 hp 
+1MD032 Intelligenta interaktiva system, 5 hp 
+1MD033 Icke-exkluderande design och utvärdering, 15 hp 
+1MD034 Systemdesign med ett användarperspektiv, 5 hp 
+1MD043 Människa-robotinteraktion, 5 hp 
+1MD044 Människa-robotinteraktion med forskningsprojekt, 10 hp 
+1MD200 Krav inom agil utveckling, 5 hp 
+1MS041 Introduktion till dataanalys, 10 hp 
+1MS048 Dataanalysens grundvalar, 10 hp 
+1MS321 Sannolikhet och statistik DV, 5 hp 
+1RT004 Säkerhet i reglersystem, 5 hp 
+1RT485 Introduktion till datorbaserade reglersystem, 5 hp 
+1RT495 Reglerteknik II, 5 hp 
+1RT700 Statistisk maskininlärning, 5 hp 
+1RT730 Stora språkmodeller och sociala konsekvenser av artificiell intelligens, 5 hp 
+1TD062 Högprestandaprogrammering, 10 hp 
+1TD070 Parallell och distribuerad programmering, 5 hp 
+1TD076 Data engineering II, 10 hp 
+1TD169 Data engineering I, 5 hp 
+1TD184 Optimeringsmetoder, 5 hp 
+1TD307 Projekt i tillämpad beräkningsvetenskap, 15 hp 
+1TD354 Beräkningsvetenskap för partiella differentialekvationer, 5 hp 
+1TD388 Datorgrafik, 10 hp 
+1TD389 Vetenskaplig visualisering, 5 hp 
+1TD396 Datoriserad bildanalys I, 5 hp 
+1TD403 Numeriska metoder och simulering, 5 hp 
+1TE651 Signalbehandling, 10 hp 
+1TE717 Digitalteknik och elektronik, 10 hp 
+1TE721 Projekt i inbyggda system, 15 hp 
+1TE722 Öppen fördjupningskurs i inbyggda system, 5 hp 
+1TE723 Programmering av enkapseldatorer, 5 hp 
+1TE743 Industriell ekonomi, 5 hp 
+1TE746 Signaler och transformer, 10 hp 
